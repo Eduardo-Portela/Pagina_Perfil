@@ -1,0 +1,30 @@
+@charset "UTf-8";
+
+body{
+    width: 800px;
+    margin: auto;
+    background-image: linear-gradient(to bottom, rgba(219, 25, 25, 0.788),rgba(216, 219, 19, 0.116));
+    background-repeat: no-repeat;
+    height: 500px;
+}
+header{
+    padding-left: 265px;
+}
+p{
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+ul{
+    padding-left: 0;
+    position: relative;
+    right: 30px;
+}
+
+aside > section{
+    padding-left: 300px;
+}
+footer{
+text-align: center;
+margin: 0;
+}
